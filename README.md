@@ -1,4 +1,4 @@
-# NPFL-Seasonal-Data-Analytics# E-Commerce Data Analysis and Visualization
+# NPFL-Seasonal-Data-Analytics
 
 This project is for getting in-depth analysis on how certian KPI'S (key performance indictators) contribute to the growth of an online sales market. 
 These KPI's include:

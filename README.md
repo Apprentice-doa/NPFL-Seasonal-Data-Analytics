@@ -18,33 +18,22 @@ The data was compiled together and published on [kaggle](https://www.kaggle.com/
 The links to the dataset are: [2018/2019 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-2018-2019-season), [2019/2020 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-nigeria-professional-football-league-19-20), [2020/2021 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-2020-2021-season), [2021/2022 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-2021-2022-season).
 
 ## Data Extraction
-The dataset was compiled in CSV (.csv)  spreadsheet(.xlsx) formats and imported into PowerBI. 
+The datasets were compiled into one  CSV (.csv) file as worksheets and imported into PowerBI. 
 
 ## Data Transformation
 Before the dataset was loaded into PowerBI, it was first transformed.
-+ The columns that were not needed for the analysis were removed [Transaction Id, Customer_ Id, Year_Month, Time].
-+ The columns were converted to the right datatypes especiall the date column which was converted to the date datatype.
-+ The value of Transaction_result was changed as 0 = Transaction failed and 1 = Transaction Successful.
-+ The value of Transaction Start was changed to Transaction start.
-+ The City['Los Angles'] was changed to City['Los Angeles'] for effective representation of the city on a map chart.
-+ A date table was created using PowerBI date query code. 
-You can find the code here: [PowerBI Date query code](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/45be5e8cdba7cd96d9386aeb8132e80b1dcd63ea/PowerBI%20Date%20Query%20Code)
-+ A new table was created by duplicating the main table and the Transaction result was filtered to have just Transaction Successful.
++ New Features were engineered from the existing features, and added to each of the data set  [W, L, D, GF, GA, Ordinal Position].
++ A new table called Teams was cretaed for analysis on the most consistent teams across all four seasons.
 + The transformed data was then apllied to the visualization panel.
 
 ## Data Modelling
-New relationships were created between the tables, and date was used as the relationship between the three (3) tables.
+New relationships were created between the tables, and Teams was used as the relationship between all the tables.
 
 ## Data visualization
-+ A measure table was created and total revenue, number of Successful transactions, number products sold, average daily transactions were all calculated using DAX.
-+ Charts were used to check for:
-+ Expected Revenue by Transaction result
-+ Revenue by City
-+ Revenue by Device Type
-+ Revenue by Date
-+ Revenue by Category
-+ Revenue by Gender
-+ Date and Customer Login type filters were created as well.
++ A measure table was created and Total Matches Played, Total Goals Scored, Avearge Goals Scored per Match  were all calculated using DAX.
++ Charts, Tables, and Cards were used to check for:
+   + Top Teams with most Goals in the Season
+   + League Standings
 
 # Useful Insights
 ## Revenue Trends
@@ -78,7 +67,7 @@ Revenue trended down between Tuesday, December 17, 2013 and Monday, January 13, 
 
 ## Data Publishing
 The data was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
-Link to my dashboard: [E-Commerce Dashboard](https://bit.ly/ecommerce_intelligence)
+Link to my dashboard: [NPFL Dashboard](https://bit.ly/npfl_dashboard)
 
 ## Feedback
 

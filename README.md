@@ -1,24 +1,24 @@
 # NPFL-Seasonal-Data-Analytics
 
-This project is for getting in-depth analysis on how certian KPI'S (key performance indictators) contribute to the growth of an online sales market. 
-These KPI's include:
-+ Purchase time
-+ Average daily transactions
-+ Gender type
-+ Geographical purchase traffic
-+ Status of transactions
-+ Total revenue
+This project is intended to show the activities of the NPFL (Nigeria Professional Football League), Nigeria's top-flight football league.By conducting an EDA (Exploratory Data Analysis) into the League, this project exposes the performance of NPFL teams in the 2018/2019, 2019/2020, 2020/2021, 2021/2022 seasons.
 
-This project for the public with much recommendations for people aiming to get into the field of data analysis, and also business managers that want to see how an interactive dashboard can give insights into the activities of their businesses.
+Some of the KPI's to watch out for include:
++ Final League Position
++ Total number of Goals Scored
++ Average Goals Scored per Match
+
+This project for the public most especially Sports analysts, Club owners, Club managers, League officials, Sports Journalists, Data Scientists, and Sports Enthusiasts with much recommendations for people aiming to get into the field of sports analytics, and also club managers that want to see how an interactive dashboard can give insights into the performance of their clubs.
 
 # Documentation
 
 ## Data Source 
 
-The data was sourced from [kaggle](https://www.kaggle.com/), an open source platform for getting open source public datasets.
-The link to the dataset is: https://www.kaggle.com/datasets/roopeshbharatwajkr/ecommerce-dataset
+The data was sourced by performing web scraping operations across several news sites, sports betting sites, blog sites, and wikipedia. 
+The data was compiled together and published on [kaggle](https://www.kaggle.com/), an open source platform for getting open source public datasets, for anyone intending to conduct further analysis on the dataset.
+The links to the dataset are: [2018/2019 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-2018-2019-season), [2019/2020 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-nigeria-professional-football-league-19-20), [2020/2021 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-2020-2021-season), [2021/2022 Season](https://www.kaggle.com/datasets/danielakhabue/npfl-2021-2022-season).
+
 ## Data Extraction
-The dataset was gotten in spreadsheet(xlsx) format and imported into PowerBI. 
+The dataset was compiled in CSV (.csv)  spreadsheet(.xlsx) formats and imported into PowerBI. 
 
 ## Data Transformation
 Before the dataset was loaded into PowerBI, it was first transformed.

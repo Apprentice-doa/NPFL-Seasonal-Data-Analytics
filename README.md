@@ -1,5 +1,7 @@
 # NPFL-Seasonal-Data-Analytics
 
+![NPFL](https://github.com/Apprentice-doa/PowerBI-E-Commerce-Data-Analytics/blob/main/images/City_Analysis.png)
+
 This project is intended to show the activities of the NPFL (Nigeria Professional Football League), Nigeria's top-flight football league.By conducting an EDA (Exploratory Data Analysis) into the League, this project exposes the performance of NPFL teams in the 2018/2019, 2019/2020, 2020/2021, 2021/2022 seasons.
 
 Some of the KPI's to watch out for include:

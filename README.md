@@ -94,6 +94,8 @@ Top 50% AI and ML with Python Regression Hackathon : [datasciencenigeria.org](ht
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/daniel-akhabue)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-akhabue/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doa_apprentice/)
+[![kaggle](https://img.shields.io/badge/kaggle-ADD8E6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/danielakhabue)
+[![zindi](https://img.shields.io/badge/zindi-000080?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/Apprentice-doa)
 
 ## 🛠 Skills
 Python (OOP), Data Analytics, Machine Learning, Features engineering.

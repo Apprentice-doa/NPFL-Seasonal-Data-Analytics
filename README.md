@@ -38,7 +38,7 @@ New relationships were created between the tables, and Teams was used as the rel
    + League Standings
    
 ## Data Storytelling
-Check out my Medium Aritcle on the Insights gotten from my analysis.
+Check out my Medium Aritcle on the Insights gotten from my analysis: [NPFL Analytics Insights](https://medium.com/@quantumreports/exploratory-data-analyses-npfls-teams-and-standings-fa0a513f02dd)
 
 ## Data Publishing
 The data was published from the PowerBI environment and a link was generated for others to view and interact with the dashboard.
